@@ -19,7 +19,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-
 import vp.spring.MyFiveMinutes.model.Korisnik;
 import vp.spring.MyFiveMinutes.security.TokenUtils;
 import vp.spring.MyFiveMinutes.service.KorisnikService;
